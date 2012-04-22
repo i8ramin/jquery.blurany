@@ -5,8 +5,6 @@
  * (c) Copyright 2009 Ramin. All Rights Reserved.
  * http://www.getintothis.com
  *
- * Depends:
- *  jquery-1.3.2.js
  */
 (function($) {
 /*global jQuery, document */
